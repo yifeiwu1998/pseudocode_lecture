@@ -1,5 +1,5 @@
 # Introduction of myself
-May name is Yifei Wu. 
+My name is Yifei Wu. 
 I am from China. 
 I am learning the pseudocode right now. 
 I think that pseudocode is really hard for me. 
