@@ -1,0 +1,8 @@
+Display "Enter your working hours: "
+Input hours 
+Convert hours to integer
+Display "Enter your salary per hour: "
+Input rate
+Convert rate to integer
+Set grossPay = hours * rate
+Display "Your gross pay is:", grossPay
